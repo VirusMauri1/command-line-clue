@@ -25,3 +25,5 @@ A note from The Gardener mentions witnessing something concerning near the gazeb
 
 ## Clue2 
 Go to the bakery in the shops. 
+## Clue3 
+ Go to the bakery in the shops. 
