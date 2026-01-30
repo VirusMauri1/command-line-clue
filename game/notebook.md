@@ -36,3 +36,5 @@ Go back and check the aisles in the shops.
 Go to the meeting rooms in the town hall. 
 ## Clue5 
 Go back and check the stockroom in the shops. 
+## Clue6 
+Your investigation has led you to the truth - this empty room is where it all happened! (stockroom) 
