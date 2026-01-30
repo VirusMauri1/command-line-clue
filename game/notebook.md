@@ -34,3 +34,5 @@ Go back and check the aisles in the shops.
 
 ## Clue4 
 Go to the meeting rooms in the town hall. 
+## Clue5 
+Go back and check the stockroom in the shops. 
