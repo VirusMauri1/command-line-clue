@@ -23,7 +23,14 @@ Location of the crime is still unknown - the room must have been empty when it h
 A note from The Gardener mentions witnessing something concerning near the gazebo.
 
 
-## Clue2 
-Go to the bakery in the shops. 
-## Clue3 
- Go to the bakery in the shops. 
+
+## Clue2
+
+Go to the bakery in the shops.
+
+## Clue3
+
+Go back and check the aisles in the shops.
+
+## Clue4 
+Go to the meeting rooms in the town hall. 
