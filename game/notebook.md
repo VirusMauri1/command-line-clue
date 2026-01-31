@@ -20,3 +20,5 @@ During the morning roll call, The Banker reported odd footprints leading to the 
 Check the pond in the park. 
 ## Clue 3 
 Go to the storage in the shops. 
+## Clue 4 
+Go to the aisles in the shops. 
