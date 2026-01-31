@@ -16,3 +16,5 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 ## Clue 1 
 During the morning roll call, The Banker reported odd footprints leading to the library. 
+## Clue 2 
+Check the pond in the park. 
