@@ -22,3 +22,5 @@ Check the pond in the park.
 Go to the storage in the shops. 
 ## Clue 4 
 Go to the aisles in the shops. 
+## Clue 5 
+Check the kitchen in the shops. 
