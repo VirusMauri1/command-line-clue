@@ -24,3 +24,5 @@ Go to the storage in the shops.
 Go to the aisles in the shops. 
 ## Clue 5 
 Check the kitchen in the shops. 
+## Clue 6 
+The evidence is clear - this is where the crime took place! The room's undisturbed state tells the whole story. (kitchen) 
