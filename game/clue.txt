@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-A note from The Gardener mentions witnessing something concerning near the gazebo.
+During the morning roll call, The Banker reported odd footprints leading to the library.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations
